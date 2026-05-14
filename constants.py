@@ -1,0 +1,1 @@
+THE_JOY_ENTRY_POINT_AGENT_NAME = "the_joy_entry_point"
